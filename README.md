@@ -63,12 +63,6 @@ GlobalAveragePooling2D
 
 ---
 
-## Accuracy & Loss Curves
-
-![Training curves](<img width="599" height="263" alt="image" src="https://github.com/user-attachments/assets/997e8b2d-3d63-4e83-9eed-32d05d21665b" />)
-
----
-
 ## Possible Improvements
 
 - **Fine-tuning** — Unfreeze top 20–30 layers with a reduced learning rate (1e-5) for 5–10 additional epochs
